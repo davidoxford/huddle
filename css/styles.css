@@ -15,18 +15,21 @@ h2 {
   font-weight: 600;
 }
 
-.background-style {
-  xposition: absolute;
-  background-color: red;
+.top-section-style {
+  position: relative;
+  xbackground-color: red;
+  width: 1440px;
+  margin: auto;
 }
 
 .svg-style {
-  position: absolute;
-  background-color: blue;
+  xbackground-color: blue;
 }
 
 .mockups {
 position: absolute;
+top: 245px;
+left: 320px;
 }
 
 .user-img {
