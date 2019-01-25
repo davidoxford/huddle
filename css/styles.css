@@ -16,7 +16,7 @@ h2 {
 }
 
 .background-style {
-  position: absolute;
+  xposition: absolute;
   background-color: red;
 }
 
@@ -26,7 +26,7 @@ h2 {
 }
 
 .mockups {
-
+position: absolute;
 }
 
 .user-img {
