@@ -21,9 +21,9 @@ The main decorative element in the background of the intro section is a gradient
 
 ### Neutral
 
-- Light Grayish Blue: hsl(214, 64%, 98%)
-- Mid Grayish Blue: hsl(208, 11%, 55%)
-- Very Dark Cyan: hsl(192, 100%, 9%)
+- Light Grayish Blue: hsl(214, 64%, 98%) #f7f9fd
+- Mid Grayish Blue: hsl(208, 11%, 55%) #808d99
+- Very Dark Cyan: hsl(192, 100%, 9%) #00252e
 
 ## Typography
 

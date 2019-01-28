@@ -2,36 +2,97 @@ body {
   background-color: #f7f9fd;
   font-size: 18px;
   font-family: 'Open+Sans',sans-serif;
+  color: #808d99;
   text-align: center;
 }
 
 h1 {
   font-family: 'Poppins',sans-serif;
   font-weight: 700;
+  color: black;
 }
 
 h2 {
   font-family: 'Poppins',sans-serif;
-  font-weight: 600;
+  font-weight: 700;
+  color: black;
 }
 
-.top-section-style {
+.top-section {
   position: relative;
-  xbackground-color: red;
   width: 1440px;
   margin: auto;
+  text-align: center;
 }
 
-.svg-style {
-  xbackground-color: blue;
-}
+.logo {
+  position: absolute;
+  top: 70px;
+  left: 95px;
 
+}
 .mockups {
 position: absolute;
 top: 245px;
 left: 320px;
 }
 
+.build-section {
+  display: block;
+  width: 100%;
+  position: absolute;
+  top: 850px;
+  text-align: center;
+  font-size: 24px;
+  line-height: 1.25;
+}
+
 .user-img {
   float: left;
+}
+
+.tryit_btn_div {
+  position: absolute;
+  top: 70px;
+  right: 95px;
+}
+
+.tryit_btn {
+border-radius: 0;
+color: #FF52BF;
+font-family: 'Open+Sans',sans-serif;
+font-size: 12px;
+font-weight: 600;
+padding: 13px;
+padding-left: 60px;
+padding-right: 60px;
+background-color: #FAFAFF;
+text-decoration: none;
+display: inline-block;
+cursor: pointer;
+}
+
+.tryit_btn:hover {
+text-decoration: none;
+font-weight: 800;
+}
+
+.started_btn {
+border-radius: 0;
+background-color: #FF52BF;
+font-family: 'Open+Sans',sans-serif;
+font-size: 12px;
+font-weight: 600;
+padding: 13px;
+padding-left: 40px;
+padding-right: 40px;
+color: #FAFAFF;
+text-decoration: none;
+display: inline-block;
+cursor: pointer;
+}
+
+.started_btn:hover {
+text-decoration: none;
+font-weight: 800;
 }
