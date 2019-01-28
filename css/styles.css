@@ -47,8 +47,24 @@ left: 320px;
   line-height: 1.25;
 }
 
-.user-img {
+.users-img {
   float: left;
+  margin-left: 130px;
+  width: 570px;
+}
+
+.users-section {
+  position: relative;
+  width: 1440px;
+  margin: 200px auto 280px auto;
+}
+
+.users-text {
+  display: inline-block;
+  text-align: left;
+  width: 500px;
+  margin-left: 100px;
+  line-height: 1.25;
 }
 
 .tryit_btn_div {
